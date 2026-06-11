@@ -1,0 +1,132 @@
+{
+  "models": {},
+  "general_fields": {
+    "ac_output_voltage_three_phase": "NOT_GIVEN",
+    "ac_output_voltage_single_phase": "230V",
+    "output_frequency": "50Hz",
+    "mppt_efficiency": "NOT_GIVEN",
+    "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+    "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+    "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+    "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+    "inverter_efficiency_transformer_topology": "NOT_GIVEN",
+    "no_load_loss_transformer_less": "NOT_GIVEN",
+    "no_load_loss_transformer": "NOT_GIVEN",
+    "total_harmonic_distortion_thd": "NOT_GIVEN",
+    "power_factor_nominal": ">0.99",
+    "power_factor_adjustable_range": "NOT_GIVEN",
+    "ip_protection": "IP67",
+    "built_in_meter_data_logger": "NOT_GIVEN",
+    "internal_protection": "NOT_GIVEN",
+    "automatic_operation": "NOT_GIVEN",
+    "cooling_system": "NOT_GIVEN",
+    "warranty_period": "NOT_GIVEN",
+    "label_information": "Manufacturer name, Rated power (W), Input/output voltage and frequency",
+    "dc_injection_limit": "NOT_GIVEN",
+    "flicker_limit": "NOT_GIVEN",
+    "voltage_range": "230V",
+    "frequency_range": "50Hz",
+    "anti_islanding_requirement": "NOT_GIVEN"
+  },
+  "models_specs": {
+    "CE-1P3001G-230-EU": {
+      "rated_output_power": "300W",
+      "max_input_power": "400W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "1.3A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P5001G-230-EU": {
+      "rated_output_power": "500W",
+      "max_input_power": "600W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "2.2A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P6001G-230-EU": {
+      "rated_output_power": "600W",
+      "max_input_power": "800W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "2.6A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P8001G-230-EU": {
+      "rated_output_power": "800W",
+      "max_input_power": "1200W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "3.8A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P10001G-230-EU": {
+      "rated_output_power": "1000W",
+      "max_input_power": "1200W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "4.8A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P13001G-230-EU": {
+      "rated_output_power": "1300W",
+      "max_input_power": "1600W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "6.2A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P16001G-230-EU": {
+      "rated_output_power": "1600W",
+      "max_input_power": "2400W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "7.7A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P18001G-230-EU": {
+      "rated_output_power": "1800W",
+      "max_input_power": "2400W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "8.6A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    },
+    "CE-1P20001G-230-EU": {
+      "rated_output_power": "2000W",
+      "max_input_power": "2400W",
+      "rated_grid_voltage": "230V",
+      "rated_grid_frequency": "50Hz",
+      "rated_output_current": "9.6A",
+      "power_factor_nominal": ">0.99",
+      "ip_protection": "IP67",
+      "inverter_efficiency": "NOT_GIVEN",
+      "euro_efficiency": "NOT_GIVEN"
+    }
+  }
+}

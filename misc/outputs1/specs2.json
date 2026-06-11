@@ -1,0 +1,174 @@
+{
+  "models": [
+    "SUN-3K-G06P3-EU-AM2",
+    "SUN-4K-G06P3-EU-AM2",
+    "SUN-5K-G06P3-EU-AM2",
+    "SUN-6K-G06P3-EU-AM2",
+    "SUN-7K-G06P3-EU-AM2",
+    "SUN-8K-G06P3-EU-AM2",
+    "SUN-9K-G06P3-EU-AM2",
+    "SUN-10K-G06P3-EU-AM2",
+    "SUN-12K-G06P3-EU-AM2",
+    "SUN-15K-G06P3-EU-AM2",
+    "SUN-3K-G06P3-EU-AM2-P1",
+    "SUN-4K-G06P3-EU-AM2-P1",
+    "SUN-5K-G06P3-EU-AM2-P1",
+    "SUN-6K-G06P3-EU-AM2-P1",
+    "SUN-7K-G06P3-EU-AM2-P1",
+    "SUN-8K-G06P3-EU-AM2-P1",
+    "SUN-9K-G06P3-EU-AM2-P1",
+    "SUN-10K-G06P3-EU-AM2-P1",
+    "SUN-12K-G06P3-EU-AM2-P1",
+    "SUN-15K-G06P3-EU-AM2-P1"
+  ],
+  "general_fields": {
+    "ac_output_voltage_three_phase": "400V ±10% (L-L)",
+    "ac_output_voltage_single_phase": "230V ±10% (L-N)",
+    "output_frequency": "50/60 Hz",
+    "mppt_efficiency": "NOT_GIVEN",
+    "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+    "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+    "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+    "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+    "inverter_efficiency_transformer_topology": "NOT_GIVEN",
+    "no_load_loss_transformer_less": "NOT_GIVEN",
+    "no_load_loss_transformer": "NOT_GIVEN",
+    "total_harmonic_distortion_thd": "NOT_GIVEN",
+    "power_factor_nominal": "> 0.99",
+    "power_factor_adjustable_range": "0.8 leading ~ 0.8 lagging",
+    "ip_protection": "IP65 (IEC 60529)",
+    "built_in_meter_data_logger": "NOT_GIVEN",
+    "internal_protection": "NOT_GIVEN",
+    "automatic_operation": "NOT_GIVEN",
+    "cooling_system": "Free cooling",
+    "warranty_period": "NOT_GIVEN",
+    "label_information": "NOT_GIVEN",
+    "dc_injection_limit": "NOT_GIVEN",
+    "flicker_limit": "NOT_GIVEN",
+    "voltage_range": "400V ±10% for three phase, 230V ±10% for single phase",
+    "frequency_range": "50Hz ±2.5%",
+    "anti_islanding_requirement": "Must comply with IEC 62116:2014 test procedure for islanding prevention measures"
+  },
+  "models_specs": {
+    "SUN-3K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 3,
+      "max_ac_power_kw": 3.3,
+      "rated_ac_current_a": 4.4,
+      "max_ac_current_a": 4.8
+    },
+    "SUN-4K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 4,
+      "max_ac_power_kw": 4.4,
+      "rated_ac_current_a": 5.8,
+      "max_ac_current_a": 6.4
+    },
+    "SUN-5K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 5,
+      "max_ac_power_kw": 5.5,
+      "rated_ac_current_a": 7.3,
+      "max_ac_current_a": 8.0
+    },
+    "SUN-6K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 6,
+      "max_ac_power_kw": 6.6,
+      "rated_ac_current_a": 8.7,
+      "max_ac_current_a": 9.6
+    },
+    "SUN-7K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 7,
+      "max_ac_power_kw": 7.7,
+      "rated_ac_current_a": 10.2,
+      "max_ac_current_a": 11.2
+    },
+    "SUN-8K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 8,
+      "max_ac_power_kw": 8.8,
+      "rated_ac_current_a": 11.6,
+      "max_ac_current_a": 12.8
+    },
+    "SUN-9K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 9,
+      "max_ac_power_kw": 9.9,
+      "rated_ac_current_a": 13.1,
+      "max_ac_current_a": 14.4
+    },
+    "SUN-10K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 10,
+      "max_ac_power_kw": 11,
+      "rated_ac_current_a": 14.5,
+      "max_ac_current_a": 16.0
+    },
+    "SUN-12K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 12,
+      "max_ac_power_kw": 13.2,
+      "rated_ac_current_a": 17.4,
+      "max_ac_current_a": 19.2
+    },
+    "SUN-15K-G06P3-EU-AM2": {
+      "rated_ac_power_kw": 15,
+      "max_ac_power_kw": 16.5,
+      "rated_ac_current_a": 21.8,
+      "max_ac_current_a": 24.0
+    },
+    "SUN-3K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 3,
+      "max_ac_power_kw": 3.3,
+      "rated_ac_current_a": 4.4,
+      "max_ac_current_a": 4.8
+    },
+    "SUN-4K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 4,
+      "max_ac_power_kw": 4.4,
+      "rated_ac_current_a": 5.8,
+      "max_ac_current_a": 6.4
+    },
+    "SUN-5K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 5,
+      "max_ac_power_kw": 5.5,
+      "rated_ac_current_a": 7.3,
+      "max_ac_current_a": 8.0
+    },
+    "SUN-6K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 6,
+      "max_ac_power_kw": 6.6,
+      "rated_ac_current_a": 8.7,
+      "max_ac_current_a": 9.6
+    },
+    "SUN-7K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 7,
+      "max_ac_power_kw": 7.7,
+      "rated_ac_current_a": 10.2,
+      "max_ac_current_a": 11.2
+    },
+    "SUN-8K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 8,
+      "max_ac_power_kw": 8.8,
+      "rated_ac_current_a": 11.6,
+      "max_ac_current_a": 12.8
+    },
+    "SUN-9K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 9,
+      "max_ac_power_kw": 9.9,
+      "rated_ac_current_a": 13.1,
+      "max_ac_current_a": 14.4
+    },
+    "SUN-10K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 10,
+      "max_ac_power_kw": 11,
+      "rated_ac_current_a": 14.5,
+      "max_ac_current_a": 16.0
+    },
+    "SUN-12K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 12,
+      "max_ac_power_kw": 13.2,
+      "rated_ac_current_a": 17.4,
+      "max_ac_current_a": 19.2
+    },
+    "SUN-15K-G06P3-EU-AM2-P1": {
+      "rated_ac_power_kw": 15,
+      "max_ac_power_kw": 16.5,
+      "rated_ac_current_a": 21.8,
+      "max_ac_current_a": 24.0
+    }
+  }
+}

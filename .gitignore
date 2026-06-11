@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#envs lol
+.env
+
+#also the vector store
+chroma_db/
+
+
+# Python cache
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/

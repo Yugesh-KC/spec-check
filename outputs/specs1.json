@@ -1,0 +1,99 @@
+{
+  "models": {
+    "CE-1P3001G-230-EU": {},
+    "CE-1P5001G-230-EU": {},
+    "CE-1P6001G-230-EU": {},
+    "CE-1P8001G-230-EU": {},
+    "CE-1P10001G-230-EU": {},
+    "CE-1P13001G-230-EU": {},
+    "CE-1P16001G-230-EU": {},
+    "CE-1P18001G-230-EU": {},
+    "CE-1P20001G-230-EU": {}
+  },
+  "general_fields": {
+    "ac_output_voltage_three_phase": "NOT_GIVEN",
+    "ac_output_voltage_single_phase": "230V",
+    "output_frequency": "50Hz",
+    "total_harmonic_distortion_thd": "NOT_GIVEN",
+    "power_factor_nominal": ">0.99",
+    "power_factor_adjustable_range": "NOT_GIVEN",
+    "ip_protection": "IP67",
+    "built_in_meter_data_logger": "NOT_GIVEN",
+    "internal_protection": "NOT_GIVEN",
+    "automatic_operation": "NOT_GIVEN",
+    "cooling_system": "NOT_GIVEN",
+    "warranty_period": "NOT_GIVEN",
+    "label_information": "NOT_GIVEN",
+    "dc_injection_limit": "NOT_GIVEN",
+    "voltage_range": "NOT_GIVEN",
+    "frequency_range": "NOT_GIVEN",
+    "flicker_limit": "NOT_GIVEN",
+    "anti_islanding_requirement": "NOT_GIVEN",
+    "power_factor_range": "NOT_GIVEN"
+  },
+  "models_specs": {
+    "CE-1P3001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P5001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P6001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P8001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P10001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P13001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P16001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P18001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    },
+    "CE-1P20001G-230-EU": {
+      "inverter_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_up_to_5kVA": "NOT_GIVEN",
+      "euro_efficiency_transformer_less_above_5kVA": "NOT_GIVEN",
+      "inverter_efficiency_transformer_topology": "NOT_GIVEN"
+    }
+  }
+}
